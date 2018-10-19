@@ -1,0 +1,10 @@
+.main_page_content{
+    height:400px;
+    width:90%;
+    overflow: scroll;
+    padding:0px;
+}
+ul .list-group{
+    padding:0px;
+    margin:0px;
+}
